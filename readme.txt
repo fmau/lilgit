@@ -1,1 +1,1 @@
-Das ist ein Beispiel-Repo.
+Das ist ein Beispiel-Repo :)
